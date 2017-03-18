@@ -1,11 +1,11 @@
 {
   "name": "wyvern-installer",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "CLI utility for Wyvern installation",
   "main": "index.js",
   "author": "sane",
   "email": "in@sane.ninja",
-  "repository" : "madesane/wyvern-installer",
+  "repository": "madesane/wyvern-installer",
   "license": "MIT",
   "bin": {
     "wyvern": "./index.js"
