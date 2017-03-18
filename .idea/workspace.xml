@@ -17,10 +17,10 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="336">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
-                <marker date="1489869328000" expanded="true" signature="185:203" ph="{&quot;wyvern&quot;: &quot;./index.js&quot;...}" />
+                <marker date="1489870456000" expanded="true" signature="269:287" ph="{&quot;wyvern&quot;: &quot;./index.js&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -185,12 +185,12 @@
       <option name="presentableId" value="Default" />
       <updated>1489772609963</updated>
       <workItem from="1489772612879" duration="2073000" />
-      <workItem from="1489774861878" duration="10859000" />
+      <workItem from="1489774861878" duration="11929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12932000" />
+    <option name="totallyTimeSpent" value="14002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="962" y="0" width="958" height="1080" extended-state="0" />
@@ -384,10 +384,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="336">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding>
-            <marker date="1489869328000" expanded="true" signature="185:203" ph="{&quot;wyvern&quot;: &quot;./index.js&quot;...}" />
+            <marker date="1489870456000" expanded="true" signature="269:287" ph="{&quot;wyvern&quot;: &quot;./index.js&quot;...}" />
           </folding>
         </state>
       </provider>
