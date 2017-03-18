@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d86dc547-71d7-41a8-92bd-856440be41f2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding>
+                <marker date="1489869328000" expanded="true" signature="185:203" ph="{&quot;wyvern&quot;: &quot;./index.js&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>slug</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_index.js" />
+        <option value="$PROJECT_DIR$/__index.js" />
+        <option value="$PROJECT_DIR$/bak.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="962" />
+    <option name="width" value="958" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wyvern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wyvern" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d86dc547-71d7-41a8-92bd-856440be41f2" name="Default" comment="" />
+      <created>1489772609963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489772609963</updated>
+      <workItem from="1489772612879" duration="2073000" />
+      <workItem from="1489774861878" duration="10859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12932000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="962" y="0" width="958" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25678498" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.js</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+          <folding>
+            <marker date="1489839817000" expanded="true" signature="113:360" ph="{&quot;wyvern&quot;: 'https://github.com/madesane/wyvern.git'...}" />
+            <marker date="1489839817000" expanded="true" signature="407:427" ph="/*...*/" />
+            <marker date="1489839817000" expanded="true" signature="450:1886" ph="[...]" />
+            <marker date="1489839817000" expanded="true" signature="454:1884" ph="{&quot;name&quot;: 'installation'...}" />
+            <marker date="1489839817000" expanded="true" signature="568:1879" ph="[...]" />
+            <marker date="1489839817000" expanded="true" signature="632:826" ph="{&quot;name&quot;: 'Wordpress + Wyvern + Wyvern Child'...}" />
+            <marker date="1489839817000" expanded="true" signature="700:817" ph="{&quot;type&quot;: 'wordpress'...}" />
+            <marker date="1489839817000" expanded="true" signature="834:1026" ph="{&quot;name&quot;: 'Wordpress + Wyvern + Wyvern Shop'...}" />
+            <marker date="1489839817000" expanded="true" signature="901:1017" ph="{&quot;type&quot;: 'wordpress'...}" />
+            <marker date="1489839817000" expanded="true" signature="1034:1197" ph="{&quot;name&quot;: 'Wordpress + Wyvern'...}" />
+            <marker date="1489839817000" expanded="true" signature="1087:1188" ph="{&quot;type&quot;: 'wordpress'...}" />
+            <marker date="1489839817000" expanded="true" signature="1260:1425" ph="{&quot;name&quot;: 'Wyvern + Wyvern Child'...}" />
+            <marker date="1489839817000" expanded="true" signature="1316:1416" ph="{&quot;type&quot;: 'theme'...}" />
+            <marker date="1489839817000" expanded="true" signature="1433:1567" ph="{&quot;name&quot;: 'Wyvern'...}" />
+            <marker date="1489839817000" expanded="true" signature="1474:1558" ph="{&quot;type&quot;: 'theme'...}" />
+            <marker date="1489839817000" expanded="true" signature="1575:1721" ph="{&quot;name&quot;: 'Wyvern Child'...}" />
+            <marker date="1489839817000" expanded="true" signature="1622:1712" ph="{&quot;type&quot;: 'theme'...}" />
+            <marker date="1489839817000" expanded="true" signature="1729:1873" ph="{&quot;name&quot;: 'Wyvern Shop'...}" />
+            <marker date="1489839817000" expanded="true" signature="1775:1864" ph="{&quot;type&quot;: 'theme'...}" />
+            <marker date="1489839817000" expanded="true" signature="1937:4781" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2110:2153" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2173:3260" ph="[...]" />
+            <marker date="1489839817000" expanded="true" signature="2210:2404" ph="{&quot;name&quot;: 'path[0]'...}" />
+            <marker date="1489839817000" expanded="true" signature="2327:2364" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2410:2607" ph="{&quot;name&quot;: 'path[1]'...}" />
+            <marker date="1489839817000" expanded="true" signature="2521:2554" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2613:2810" ph="{&quot;name&quot;: 'path[2]'...}" />
+            <marker date="1489839817000" expanded="true" signature="2724:2757" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2848:3049" ph="{&quot;name&quot;: 'path[0]'...}" />
+            <marker date="1489839817000" expanded="true" signature="2966:2999" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3055:3255" ph="{&quot;name&quot;: 'path[1]'...}" />
+            <marker date="1489839817000" expanded="true" signature="3173:3206" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3312:4777" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3427:3846" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3467:3818" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3648:3809" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3692:3750" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3756:3799" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3878:4773" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4132:4765" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4174:4712" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4289:4702" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4504:4689" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4552:4618" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4624:4675" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4718:4757" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/git-clone/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="35" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1489839817000" expanded="true" signature="113:360" ph="{&quot;wyvern&quot;: 'https://github.com/madesane/wyvern.git'...}" />
+            <marker date="1489839817000" expanded="true" signature="407:427" ph="/*...*/" />
+            <marker date="1489839817000" expanded="true" signature="450:1886" ph="[...]" />
+            <marker date="1489839817000" expanded="true" signature="454:1884" ph="{&quot;name&quot;: 'installation'...}" />
+            <marker date="1489839817000" expanded="true" signature="568:1879" ph="[...]" />
+            <marker date="1489839817000" expanded="true" signature="632:826" ph="{&quot;name&quot;: 'Wordpress + Wyvern + Wyvern Child'...}" />
+            <marker date="1489839817000" expanded="true" signature="700:817" ph="{&quot;type&quot;: 'wordpress'...}" />
+            <marker date="1489839817000" expanded="true" signature="834:1026" ph="{&quot;name&quot;: 'Wordpress + Wyvern + Wyvern Shop'...}" />
+            <marker date="1489839817000" expanded="true" signature="901:1017" ph="{&quot;type&quot;: 'wordpress'...}" />
+            <marker date="1489839817000" expanded="true" signature="1034:1197" ph="{&quot;name&quot;: 'Wordpress + Wyvern'...}" />
+            <marker date="1489839817000" expanded="true" signature="1087:1188" ph="{&quot;type&quot;: 'wordpress'...}" />
+            <marker date="1489839817000" expanded="true" signature="1260:1425" ph="{&quot;name&quot;: 'Wyvern + Wyvern Child'...}" />
+            <marker date="1489839817000" expanded="true" signature="1316:1416" ph="{&quot;type&quot;: 'theme'...}" />
+            <marker date="1489839817000" expanded="true" signature="1433:1567" ph="{&quot;name&quot;: 'Wyvern'...}" />
+            <marker date="1489839817000" expanded="true" signature="1474:1558" ph="{&quot;type&quot;: 'theme'...}" />
+            <marker date="1489839817000" expanded="true" signature="1575:1721" ph="{&quot;name&quot;: 'Wyvern Child'...}" />
+            <marker date="1489839817000" expanded="true" signature="1622:1712" ph="{&quot;type&quot;: 'theme'...}" />
+            <marker date="1489839817000" expanded="true" signature="1729:1873" ph="{&quot;name&quot;: 'Wyvern Shop'...}" />
+            <marker date="1489839817000" expanded="true" signature="1775:1864" ph="{&quot;type&quot;: 'theme'...}" />
+            <marker date="1489839817000" expanded="true" signature="1937:4781" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2110:2153" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2173:3260" ph="[...]" />
+            <marker date="1489839817000" expanded="true" signature="2210:2404" ph="{&quot;name&quot;: 'path[0]'...}" />
+            <marker date="1489839817000" expanded="true" signature="2327:2364" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2410:2607" ph="{&quot;name&quot;: 'path[1]'...}" />
+            <marker date="1489839817000" expanded="true" signature="2521:2554" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2613:2810" ph="{&quot;name&quot;: 'path[2]'...}" />
+            <marker date="1489839817000" expanded="true" signature="2724:2757" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="2848:3049" ph="{&quot;name&quot;: 'path[0]'...}" />
+            <marker date="1489839817000" expanded="true" signature="2966:2999" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3055:3255" ph="{&quot;name&quot;: 'path[1]'...}" />
+            <marker date="1489839817000" expanded="true" signature="3173:3206" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3312:4777" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3427:3846" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3467:3818" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3648:3809" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3692:3750" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3756:3799" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="3878:4773" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4132:4765" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4174:4712" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4289:4702" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4504:4689" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4552:4618" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4624:4675" ph="{...}" />
+            <marker date="1489839817000" expanded="true" signature="4718:4757" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <marker date="1489869328000" expanded="true" signature="185:203" ph="{&quot;wyvern&quot;: &quot;./index.js&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
