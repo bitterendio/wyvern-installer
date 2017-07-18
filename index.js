@@ -5,6 +5,7 @@ var clone = require('git-clone');
 
 const repositories = {
   'wyvern': 'https://github.com/madesane/wyvern.git',
+  'wyvern-new': 'https://github.com/madesane/wyvern.git',
   'wyvern-child': 'https://github.com/madesane/wyvern-child.git',
   'wyvern-shop': 'https://github.com/madesane/wyvern-shop.git',
   'wordpress': 'https://github.com/WordPress/WordPress.git'
@@ -63,6 +64,15 @@ const listQuestions = [
         },
       },
       {
+        name: 'Wyvern 0.2.0',
+        value: {
+          slug: ['wyvern-new'],
+          type: 'theme',
+          branch: '0.2.0',
+          count: 1,
+        },
+      },
+      {
         name: 'Wyvern Child',
         value: {
           slug: ['wyvern-child'],
@@ -87,6 +97,7 @@ inquirer.prompt(listQuestions).then((answer) => {
   const type = listAnswer.type;
   const count = listAnswer.count;
   const slug = listAnswer.slug;
+  const branch = listAnswer.branch;
 
   function isType(installationType) {
     return installationType === type;
@@ -150,7 +161,11 @@ inquirer.prompt(listQuestions).then((answer) => {
     if (type === 'theme') {
       for (let i = 0; i < count; i++) {
         console.log('Cloning ' + slug[i] + ' theme from ' + repositories[slug[i]] + ' to /' + paths[i] + '...');
-        clone(repositories[slug[i]], paths[i], [], function (err) {
+        let options = [];
+        if (branch) {
+          options = {checkout: branch};
+        }
+        clone(repositories[slug[i]], paths[i], options, function (err) {
           if (typeof err === 'undefined') {
             console.log(slug[i] + ' DONE!');
           } else {
