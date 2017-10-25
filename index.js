@@ -4,10 +4,10 @@ var inquirer = require('inquirer');
 var clone = require('git-clone');
 
 const repositories = {
-  'wyvern': 'https://github.com/madesane/wyvern.git',
-  'wyvern-new': 'https://github.com/madesane/wyvern.git',
-  'wyvern-child': 'https://github.com/madesane/wyvern-child.git',
-  'wyvern-shop': 'https://github.com/madesane/wyvern-shop.git',
+  'wyvern': 'https://github.com/bitterendio/wyvern.git',
+  'wyvern-new': 'https://github.com/bitterendio/wyvern.git',
+  'wyvern-child': 'https://github.com/bitterendio/wyvern-child.git',
+  'wyvern-shop': 'https://github.com/bitterendio/wyvern-shop.git',
   'wordpress': 'https://github.com/WordPress/WordPress.git'
 };
 
